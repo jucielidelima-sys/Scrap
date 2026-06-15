@@ -458,7 +458,7 @@ def main():
     df_filtrado = aplicar_filtros(df)
 
     st.markdown(
-        "<div class='info-card'>📡 Conceito Indústria 4.0: visão executiva de perdas, concentração por produto, comparação Refugo x Retrabalho, Pareto e base analítica filtrável.</div>",
+        "<div class='info-card'>📡 Visão executiva de perdas, concentração por produto, comparação Refugo x Retrabalho, Pareto e base analítica filtrável.</div>",
         unsafe_allow_html=True,
     )
 
